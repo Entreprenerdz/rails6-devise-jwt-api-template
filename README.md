@@ -10,3 +10,7 @@ The framework will be built with the following technologies:
   - devise-jwt - JWT authentication for our state-less API [GitHub](https://github.com/waiting-for-dev/devise-jwt)
   - Incremental Gits - 1 command, 1 commit.  git diff to see EXACTLY what the command did.
   - Template!!!! let's automate this mofo! [RailsGuides](https://guides.rubyonrails.org/rails_application_templates.html)
+
+# How to Use
+1. Clone this git.
+2. From the CLI, run `rails new <APPNAME> -m ~/Setup_template.rb`
