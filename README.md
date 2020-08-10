@@ -13,4 +13,9 @@ The framework will be built with the following technologies:
 
 # How to Use
 1. Clone this git.
-2. From the CLI, run `rails new <APPNAME> -m ~/Setup_template.rb`
+2. From the CLI, run `rails new <APPNAME> --api -m ~/Setup_template.rb`
+
+rails new r6-api-devise-jwt --pretend 
+RAILS_ROOT   # https://www.digitalocean.com/community/tutorials/how-to-set-up-ruby-on-rails-with-postgres
+
+RAILS_ROOT #is current rails folder
